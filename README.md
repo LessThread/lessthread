@@ -1,10 +1,3 @@
-### Liu Yuanchi
+A full-stack programmer from the north, (ctrl)CV engineer, skilled in CRUD. Currently employed at an internet company.  
 
-- 📕 Undergraduate
-- 🖥️ C/C++,Python,Javascript
-- 🌱 Currently learning CUDA  
-
-- 📮 Email: liu_yuanchi@outlook.com
-- ⚡ Currently interning
-
-![Liu Yuanchi's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=LessThread&hide=VHDL,verilog,html&show_icons=true&count_private=true&theme=gotham)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=LessThread&hide=VHDL,verilog,html&show_icons=true&count_private=true&theme=gotham)

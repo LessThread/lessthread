@@ -1,4 +1,4 @@
-A Beijing-based full-stack developer and copy-paste engineer, proficient in CRUD operations.  
+A full-stack developer and copy-paste engineer, proficient in CRUD operations.  
 Interned in the ICT industry, currently working at an internet company.   
 Expert in installing and uninstalling various software environments.  
 Familiar with Git operations like cloning, pulling, and pushing.   
